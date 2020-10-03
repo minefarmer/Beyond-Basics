@@ -1,5 +1,5 @@
 import logging
-logging.basicConfig(level=logging.DEBUG, filename='sqrt.log')   # DEBUG, INFO, WARN, ERROR
+logging.basicConfig(level=logging.Error)   # DEBUG, INFO, WARN, ERROR
 
 
 # add: filename='sqrt.log'
